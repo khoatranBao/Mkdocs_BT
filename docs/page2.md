@@ -1,2 +1,0 @@
-# Trang phụ
-## Chào bạn!!!
