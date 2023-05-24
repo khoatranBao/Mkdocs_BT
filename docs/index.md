@@ -1,0 +1,9 @@
+# Trang chủ
+
+Liên hệ với trang [mkdocs.org](https://www.mkdocs.org).
+
+## Nội dung
+Xin chào!
+Xin chào!
+Xin chào!
+Xin chào!
